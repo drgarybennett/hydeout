@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            'dr. gary<br>bennett'
 title2:            'dr. gary bennett'
-tagline:          'science, tech, business, coffee'
+tagline:          'digital health science, innovation & coffee'
 description:      'science, tech, business, coffee.'
 url:              https://drgarybennett.github.io/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
