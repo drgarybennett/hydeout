@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-[](http://drgarybennett.github.io/_images/151209_bennett005.jpg)
+![ ](http://drgarybennett.github.io/_images/151209_bennett005.jpg)
 
 Gary G. Bennett is the Bishop-MacDermott Family Professor of Psychology & Neuroscience, Global Health and Medicine at Duke University. He directs the Duke Global Digital Health Science Center. Dr. Bennett is also President of the [Society of Behavioral Medicine](http://www.sbm.org).
 
