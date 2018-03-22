@@ -3,7 +3,6 @@ id: 1526
 title: Scale Down acquired
 date: 2018-01-02T15:15:09+00:00
 author: ggbjr
-layout: post
 guid: http://drgarybennett.com/?p=1526
 permalink: /2018/01/02/scale-down-acquired/
 categories:
