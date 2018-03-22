@@ -6,6 +6,7 @@ author: ggbjr
 layout: post
 categories:
   - digital health
+excerpt_separator: <!--more-->
 ---
 ![ ](http://drgarybennett.com/wp-content/uploads/2018/01/logo_tm.png)
 
