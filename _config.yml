@@ -18,7 +18,9 @@ author:
   name:           'Gary Bennett'
   url:            https://twitter.com/drgarybennett
 
-paginate:         10
+excerpt_separator: ""
+
+paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
