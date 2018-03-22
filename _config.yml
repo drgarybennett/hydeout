@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            'dr. gary<br>bennett'
 title2:            'dr. gary bennett'
 tagline:          'digital health science, innovation & coffee'
-description:      'science, tech, business, coffee.'
-url:              https://drgarybennett.github.io/
+description:      'digital health science, innovation & coffee.'
+url:              https://www.drgarybennett.com/
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -38,4 +38,4 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://github.com/drgarybennett
