@@ -9,7 +9,7 @@ permalink: /2018/01/02/scale-down-acquired/
 categories:
   - digital health
 ---
-[<img src="http://drgarybennett.com/wp-content/uploads/2018/01/logo_tm.png" alt="" width="327" height="138" class="aligncenter size-full wp-image-1527" srcset="http://drgarybennett.com/wp-content/uploads/2018/01/logo_tm.png 327w, http://drgarybennett.com/wp-content/uploads/2018/01/logo_tm-300x127.png 300w" sizes="(max-width: 327px) 100vw, 327px" />](http://drgarybennett.com/wp-content/uploads/2018/01/logo_tm.png)
+![ ](http://drgarybennett.com/wp-content/uploads/2018/01/logo_tm.png)
 
 Good science + good friends + wanting to do good + good-ish caffeine + good [hard] work + good luck = Scale Down.
 
