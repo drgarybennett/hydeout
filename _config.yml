@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            'dr<br>gary<br>bennett'
+title:            'dr. gary<br>bennett'
 title2:            'dr. gary bennett'
 tagline:          'science, tech, business, coffee'
 description:      'science, tech, business, coffee.'
