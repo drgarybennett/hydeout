@@ -1,8 +1,14 @@
 ---
-title: Scale Down acquired
-date: 2018-01-02T15:15:09+00:00
-layout:post
-excerpt_separator:  <!--more-->
+id: 1526
+  title: Scale Down acquired
+  date: 2018-01-02T15:15:09+00:00
+  layout:post
+ -author: ggbjr
+ -guid: http://drgarybennett.com/?p=1526
+ -permalink: /2018/01/02/scale-down-acquired/
+ -categories:
+ - digital health
+ - excerpt_separator:  <!--more-->
 ---
 [<img src="http://drgarybennett.com/wp-content/uploads/2018/01/logo_tm.png" alt="" width="327" height="138" class="aligncenter size-full wp-image-1527" srcset="http://drgarybennett.com/wp-content/uploads/2018/01/logo_tm.png 327w, http://drgarybennett.com/wp-content/uploads/2018/01/logo_tm-300x127.png 300w" sizes="(max-width: 327px) 100vw, 327px" />](http://drgarybennett.com/wp-content/uploads/2018/01/logo_tm.png)
 
