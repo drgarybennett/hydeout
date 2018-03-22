@@ -18,7 +18,8 @@ author:
   name:           'Gary Bennett'
   url:            https://twitter.com/drgarybennett
 
-excerpt_separator: ""
+excerpt_separator: <!--more-->
+
 
 paginate:         5
 # paginate_path:    '/page:num'
