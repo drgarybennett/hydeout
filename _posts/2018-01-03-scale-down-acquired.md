@@ -4,8 +4,6 @@ title: Scale Down acquired
 date: 2018-01-03
 author: ggbjr
 layout: post
-guid: http://drgarybennett.com/?p=1526
-permalink: /2018/01/02/scale-down-acquired/
 categories:
   - digital health
 ---
